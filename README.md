@@ -1,4 +1,4 @@
-# Module 18 - Blockchain
+# Module 18 - PyChain Ledger
 
 This is the page for the eighteenth module of the Fintech Bootcamp course, covering introduction to Blockchain.
 
